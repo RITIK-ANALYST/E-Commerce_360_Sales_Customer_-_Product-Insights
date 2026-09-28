@@ -152,5 +152,4 @@ AUTHOR
 Ritik Tiwari  
 MBA (Finance & Marketing) | Aspiring Data Analyst  
 Madhya Pradesh, India  
-LinkedIn: https://www.linkedin.com/in/your-profile  
-GitHub: https://github.com/your-username
+
